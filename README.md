@@ -1,3 +1,43 @@
+# Deevi Lathasri - Portfolio 🚀
+
+## Live Website
+
+🌐 Portfolio:
+https://my-portfolio-nine-jet-39.vercel.app/
+
+
+## About
+
+Aspiring Software Developer passionate about building responsive and user-friendly web applications.
+
+## Projects
+
+### 1. Portfolio Website
+GitHub:
+https://github.com/Latha-44/portfolio
+
+
+### 2. JobNest - Job Search Application
+GitHub:
+https://github.com/Latha-44/JobNest
+
+
+### 3. Real Estate Website
+GitHub:
+https://github.com/Latha-44/Realestate
+
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Next.js
+- GitHub
+- Vercel
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
